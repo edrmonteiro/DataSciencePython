@@ -1,4 +1,7 @@
 11_ML_UD/fashion_mnist/
+11_ML_UD/11_ML_UD/08_Convolutional_Neural_Networks/cats_and_dogs_dataset/
+11_ML_UD/11_ML_UD/08_Convolutional_Neural_Networks/other_images/
+11_ML_UD/11_ML_UD/08_Convolutional_Neural_Networks/test1/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
